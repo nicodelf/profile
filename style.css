@@ -4,7 +4,7 @@ h1, h2 {
 }
 
 body {
-  background-color: whitesmoke;
+  background-image: url(https://source.unsplash.com/random/);
   font-family: 'Lora', serif;
   color: #575F7D;
   font-size: 17px;
@@ -12,7 +12,7 @@ body {
 }
 
 h2 {
-  color: #7ECE90;
+  color: #4fad65;
   font-weight: 500;
 }
 
@@ -50,12 +50,12 @@ a:hover {
 }
 
 .card {
-  background: white;
+  background: rgb(221, 220, 220);
   padding: 40px;
   border: 1px solid lightgrey;
   margin: 20px 0px;
   border-radius: 4px;
-  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  box-shadow: 0px 30px 50px rgb(0 0 0 / 10%);
   text-align: center;
 }
 
