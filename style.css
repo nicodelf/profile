@@ -4,7 +4,7 @@ h1, h2 {
 }
 
 body {
-  background-image: url(https://source.unsplash.com/random/);
+  background-color: rgb(231, 233, 240);
   font-family: 'Lora', serif;
   color: #575F7D;
   font-size: 17px;
